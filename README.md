@@ -3,7 +3,7 @@ Summary of Projects - these are my projects currently listed under private
 
 Create-Comparison-of-lexicon-based-sentiment-analysis
 
-keno
+keno- gmae in python with probablity predictor
 
 Data wrangling: JSON to Pandas/melt/pivot
 
